@@ -6,9 +6,9 @@
   </p>
 
   <p>
-    <a href="https://github.com/anggadwiiic"><img src="https://img.shields.io/badge/GitHub-171226?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/angga-dwi-cahyono/"><img src="https://img.shields.io/badge/LinkedIn-171226?style=flat-square&logo=linkedin&logoColor=9B7EDE" alt="LinkedIn"></a>
-    <a href="mailto:anggadwicahyono122@gmail.com"><img src="https://img.shields.io/badge/Email-171226?style=flat-square&logo=gmail&logoColor=9B7EDE" alt="Email"></a>
+    <a href="https://github.com/anggadwiiic" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-171226?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/angga-dwi-cahyono/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-171226?style=flat-square&logo=linkedin&logoColor=9B7EDE" alt="LinkedIn"></a>
+    <a href="mailto:anggadwicahyono122@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-171226?style=flat-square&logo=gmail&logoColor=9B7EDE" alt="Email"></a>
   </p>
 </div>
 
@@ -22,10 +22,9 @@
     <td width="45%" valign="top">
       <h2>Profile</h2>
       <table>
-        <tr><td><strong>Role</strong></td><td>UI/UX Designer</td></tr>
+        <tr><td><strong>Role</strong></td><td>UI/UX Designer and Web Development Learner</td></tr>
         <tr><td><strong>Study</strong></td><td>Informatics</td></tr>
         <tr><td><strong>Based in</strong></td><td>Surabaya, Indonesia</td></tr>
-        <tr><td><strong>Learning</strong></td><td>Web development</td></tr>
       </table>
     </td>
   </tr>
@@ -36,11 +35,11 @@
 <table>
   <tr>
     <td valign="top"><strong>Design</strong></td>
-    <td>Figma, FigJam</td>
+    <td>Figma, FigJam, Maze</td>
   </tr>
   <tr>
     <td valign="top"><strong>Web</strong></td>
-    <td>Laravel, JavaScript, Tailwind CSS, Vite</td>
+    <td>Laravel, JavaScript, Tailwind CSS, Vite, Bootstrap</td>
   </tr>
 </table>
 
@@ -49,19 +48,22 @@
 <table>
   <tr>
     <td width="28%" valign="top"><strong>Yulianto Agro Company Profile</strong></td>
-    <td>A company profile website for a business in Sidoarjo, Indonesia, working in livestock, fisheries, and longan farming.<br><br><strong>Stack:</strong> Vite, Tailwind CSS, JavaScript<br><br><a href="https://github.com/anggadwiiic/Yulianto-Agro-Company-Profile">Repository</a> | <a href="https://yuliantoagro.co.id">Live website</a></td>
+    <td>A company profile website for a business in Sidoarjo, Indonesia, working in livestock, fisheries, and longan farming.<br><br><strong>Stack:</strong> Vite, Tailwind CSS, JavaScript<br><br><a href="https://github.com/anggadwiiic/Yulianto-Agro-Company-Profile" target="_blank" rel="noopener noreferrer">Repository</a> | <a href="https://yuliantoagro.co.id" target="_blank" rel="noopener noreferrer">Live website</a></td>
   </tr>
 </table>
 
 ## GitHub activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anggadwiiic&theme=github_dark" height="170" alt="Angga's GitHub statistics">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggadwiiic&theme=tokyonight&hide_border=true" height="170" alt="Angga's GitHub contribution streak">
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anggadwiiic&theme=github_dark" width="100%" alt="Angga's GitHub statistics">
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggadwiiic&theme=github_dark" width="95%" alt="Angga's GitHub activity summary">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggadwiiic&theme=tokyonight&hide_border=true" width="100%" alt="Angga's GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggadwiiic&theme=github_dark" width="100%" alt="Angga's GitHub activity summary">
 </p>
 
 <p align="center">
@@ -69,9 +71,9 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/anggadwiiic">GitHub</a>
+  <a href="https://github.com/anggadwiiic" target="_blank" rel="noopener noreferrer">GitHub</a>
   |
-  <a href="https://www.linkedin.com/in/angga-dwi-cahyono/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/angga-dwi-cahyono/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   |
-  <a href="mailto:anggadwicahyono122@gmail.com">Email</a>
+  <a href="mailto:anggadwicahyono122@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
 </div>
