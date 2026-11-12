@@ -62,14 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggadwiiic&theme=tokyonight&hide_border=true" width="100%" alt="Angga's GitHub contribution streak">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggadwiiic&theme=github_dark" width="100%" alt="Angga's GitHub activity summary">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anggadwiiic/anggadwiiic/output/github-contribution-grid-snake.svg" width="95%" alt="Animated contribution graph snake">
-</p>
-
 <div align="center">
   <a href="https://github.com/anggadwiiic" target="_blank" rel="noopener noreferrer">GitHub</a>
   |
